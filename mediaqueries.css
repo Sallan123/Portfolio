@@ -108,6 +108,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: start;
+    gap: 1rem;
   }
   .contact-info-upper-container_1{
     margin-left: 1%;
