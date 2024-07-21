@@ -100,4 +100,16 @@
   .text-container {
     text-align: justify;
   }
+  .section_text{
+    margin-top: 48%;
+  }
+  .contact-info-upper-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+  .contact-info-upper-container_1{
+    margin-left: 1%;
+  }
 }
